@@ -21,8 +21,15 @@ backup ไฟล์ fonts.conf
 
 
 
+
+
+
+
 backup โฟลเดอร์ fonts
+
 ![2  โฟรเดอร์ fonts](https://user-images.githubusercontent.com/89773987/132618227-44c40103-ab14-42cd-afdd-c6742426ef21.png)
+
+
 
 ![2 bat โฟรเดอร์ fonts](https://user-images.githubusercontent.com/89773987/132618240-5d8a8060-3b6a-4c0c-b3b7-b1d347213cda.png)
 
