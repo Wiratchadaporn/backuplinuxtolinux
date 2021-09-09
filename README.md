@@ -47,8 +47,25 @@ backup โฟลเดอร์ fonts
 
 
 
+
+
+
+
+
+
+
 key ต้นทาง
 ![1  keygen ต้นทาง](https://user-images.githubusercontent.com/89773987/132618706-34f51548-506c-478c-930c-a505d277b4e8.png)
+
+
+
+
+
+
+
+
+
+
 
 
 
