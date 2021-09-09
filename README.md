@@ -44,12 +44,22 @@ backup โฟลเดอร์ fonts
 
 3. สร้าง Key แล้วส่งไปยังเครื่องที่2 แล้วแสดงคำสั่ง
 
+
+
+
 key ต้นทาง
 ![1  keygen ต้นทาง](https://user-images.githubusercontent.com/89773987/132618706-34f51548-506c-478c-930c-a505d277b4e8.png)
 
 
+
+
+
+
 key ที่ส่งไปยังปลายทาง
 ![1  ส่ง keygen จากต้นทางมาปลายทาง](https://user-images.githubusercontent.com/89773987/132618775-a6600563-dc4d-4e95-918c-f101fff7a220.png)
+
+
+
 
 
 
